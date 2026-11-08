@@ -1,0 +1,36 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Health directories",
+      "description": "Find sleep doctors, sleep clinics, frenectomy providers, sedation dentists and eye clinics in the US, UK, Canada, Australia, New Zealand, Ireland and Germany.",
+      "skills": [
+        "findsleepdoctors",
+        "sleepclinicdirectory",
+        "sleepclinicsau",
+        "frenectomyguide",
+        "qsedationdentistry",
+        "schlafklinikfinder",
+        "chalazionguide",
+        "sleepclinicguide"
+      ]
+    },
+    {
+      "title": "Home and outdoors",
+      "description": "Numbers-first planning for backyard saunas, cold plunges, garage storage and home golf simulators.",
+      "skills": [
+        "dipandheat",
+        "garagevertical",
+        "golfbayguide"
+      ]
+    },
+    {
+      "title": "Travel",
+      "description": "Charter cost and contract guidance for superyachts and catamarans.",
+      "skills": [
+        "superyachtcharterguide"
+      ]
+    }
+  ]
+}
