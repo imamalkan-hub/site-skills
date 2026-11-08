@@ -16,6 +16,12 @@ Install one skill:
 npx skills add imamalkan-hub/site-skills --skill findsleepdoctors
 ```
 
+Install as a Hermes plugin (portable Agent Plugins package):
+
+```bash
+hermes plugins install imamalkan-hub/site-skills
+```
+
 ## Skills
 
 | Skill | Site |

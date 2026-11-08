@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "site-skills",
+  "version": "1.0.0",
+  "description": "Agent skills for independent health directories, home-improvement guides and a yacht charter guide.",
+  "author": {
+    "name": "Imam Alkan",
+    "email": "imamalkan@gmail.com",
+    "url": "https://github.com/imamalkan-hub"
+  },
+  "homepage": "https://www.skills.sh/imamalkan-hub/site-skills",
+  "repository": "https://github.com/imamalkan-hub/site-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "health-directories",
+    "sleep",
+    "dental",
+    "home-improvement",
+    "yacht-charter"
+  ]
+}
