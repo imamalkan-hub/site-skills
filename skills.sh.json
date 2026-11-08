@@ -31,6 +31,13 @@
       "skills": [
         "superyachtcharterguide"
       ]
+    },
+    {
+      "title": "Distribution",
+      "description": "Publish a server or tool to the directories that build a page from a public README and pass links back to the product.",
+      "skills": [
+        "mcp-listing-pages"
+      ]
     }
   ]
 }

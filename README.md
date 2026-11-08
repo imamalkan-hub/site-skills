@@ -39,6 +39,12 @@ hermes plugins install imamalkan-hub/site-skills
 | `golfbayguide` | [golfbayguide.com](https://golfbayguide.com) — home golf simulators |
 | `superyachtcharterguide` | [superyachtcharterguide.com](https://superyachtcharterguide.com) — yacht charters |
 
+## Distribution
+
+| Skill | What it does |
+|---|---|
+| `mcp-listing-pages` | Publishes an MCP server repo to LobeHub, Glama, Smithery, mcp.so, PulseMCP and the official MCP Registry for dofollow links |
+
 ## Layout
 
 ```

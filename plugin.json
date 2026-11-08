@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "site-skills",
   "version": "1.0.0",
-  "description": "Agent skills for independent health directories, home-improvement guides and a yacht charter guide.",
+  "description": "Agent skills for independent health directories, home-improvement guides, a yacht charter guide, and MCP directory distribution.",
   "author": {
     "name": "Imam Alkan",
     "email": "imamalkan@gmail.com",
@@ -17,6 +17,8 @@
     "sleep",
     "dental",
     "home-improvement",
-    "yacht-charter"
+    "yacht-charter",
+    "mcp",
+    "distribution"
   ]
 }
