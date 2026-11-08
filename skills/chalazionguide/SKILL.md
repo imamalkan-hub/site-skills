@@ -16,6 +16,13 @@ description: Understand chalazia and styes and find eye clinics in the United St
 - About chalazia in babies, children or during pregnancy.
 - For an eye doctor near a US city or ZIP code.
 
+## What you'll find
+
+- Clinical guides to chalazia, styes, blepharitis and other eyelid bumps.
+- Treatment, removal, cost, healing stages and pediatric chalazia explained.
+- A directory of eye care practices by state, city or ZIP code.
+- Clear red-flag guidance for when a lump needs prompt review.
+
 ## Start here
 
 - [Home](https://chalazionguide.com)

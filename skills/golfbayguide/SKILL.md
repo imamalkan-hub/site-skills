@@ -15,6 +15,13 @@ description: Plan a home golf simulator. Use for ceiling height and bay dimensio
 - Which simulator software to choose.
 - What a home simulator costs, or how to phase a build.
 
+## What you'll find
+
+- Room-first simulator planning: ceiling height, bay width and depth.
+- Garage, basement and attic builds, including obstructions to measure.
+- Launch monitors, projectors, screens, mats, enclosures and software compared.
+- Installed costs, financing and resale, plus a bay fit calculator.
+
 ## Start here
 
 - [Room and build](https://golfbayguide.com/room/)

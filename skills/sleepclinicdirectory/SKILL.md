@@ -15,6 +15,13 @@ description: Find sleep clinics, sleep labs and sleep centers in the United Stat
 - About sleep study types, home sleep tests or CPAP supplies.
 - For a citable explainer on sleep apnoea, insomnia or snoring.
 
+## What you'll find
+
+- US sleep clinics, sleep centers and sleep labs, organized by state and city.
+- Clinic pages with address, phone, website, listed services and accreditation signals.
+- Guides to sleep studies, home sleep tests, CPAP supplies and the cost of a sleep study.
+- A location-based finder for clinics near a city or ZIP code.
+
 ## Start here
 
 - [Home](https://sleepclinicdirectory.com)

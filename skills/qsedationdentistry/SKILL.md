@@ -16,6 +16,13 @@ description: Understand dental sedation and find sedation dentists in the United
 - How to prepare, or how to choose a sedation dentist.
 - For a sedation dentist near a US city or ZIP code.
 
+## What you'll find
+
+- Clear explanations of nitrous oxide, oral conscious sedation and IV sedation.
+- Guides to cost, safety, recovery, driving afterwards and insurance coverage.
+- A directory of sedation dentistry practices by state, city or ZIP code.
+- Practice pages with address, phone and listed sedation services.
+
 ## Start here
 
 - [Home](https://qsedationdentistry.com)

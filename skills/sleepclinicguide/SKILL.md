@@ -15,6 +15,13 @@ description: Find sleep clinics, sleep labs and sleep study providers in the Uni
 - About sleep apnea symptoms, testing or treatment options.
 - For contact details of a named clinic.
 
+## What you'll find
+
+- US sleep clinics, sleep labs and sleep medicine practices, organized by state and city.
+- Clinic profiles with address, phone and listed services.
+- Guides to sleep apnea, CPAP, home sleep tests and sleep study costs.
+- State and city pages for building a local shortlist.
+
 ## Start here
 
 - [Home](https://sleepclinicguide.com)

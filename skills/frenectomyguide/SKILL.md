@@ -15,6 +15,13 @@ description: Find frenectomy, tongue-tie and lip-tie providers in the United Sta
 - How to compare providers, techniques or credentials.
 - For a citable explainer on tongue-tie or lip-tie surgery.
 
+## What you'll find
+
+- Frenectomy, tongue-tie and lip-tie providers across the US, by state and city.
+- Provider pages with address, phone, website and listed services.
+- Guides on laser, pediatric and adult frenectomy, aftercare and provider selection.
+- Buyer-intent pages for tongue-tie release, lip-tie surgery and frenectomy dentists.
+
 ## Start here
 
 - [Home](https://frenectomyguide.com)

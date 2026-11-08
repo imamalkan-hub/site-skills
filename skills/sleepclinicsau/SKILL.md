@@ -15,6 +15,13 @@ description: Find sleep clinics and sleep specialists across Australia. Use for 
 - How sleep studies, Medicare or private health cover work in Australia.
 - About CPAP, snoring or sleep apnoea in an Australian context.
 
+## What you'll find
+
+- Australian sleep clinics and sleep specialists, browsable by state and city.
+- Clinic pages with address, phone, website and listed services.
+- Guides to sleep studies, CPAP, Medicare, WorkCover and workplace fatigue.
+- A nearby search for clinics around a location.
+
 ## Start here
 
 - [Home](https://sleepclinicsau.com)

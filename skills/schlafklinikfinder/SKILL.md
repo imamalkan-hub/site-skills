@@ -15,6 +15,13 @@ description: Schlaflabore, Schlafmediziner und Schlafkliniken in Deutschland fin
 - Schwerpunkten wie Schlafapnoe, Insomnie oder Kinderschlafmedizin.
 - Ablauf und Nutzen einer Schlafdiagnostik.
 
+## Was du findest
+
+- Schlaflabore, schlafmedizinische Praxen, HNO-Praxen und Kliniken in Deutschland.
+- Suche nach Stadt, Postleitzahl oder Einrichtung sowie Browse nach Bundesland.
+- Profile mit Adresse, Telefon, Schwerpunkten und Karte.
+- Ratgeber zu Schlafapnoe, Insomnie und Schlafdiagnostik.
+
 ## Einstieg
 
 - [Verzeichnis und Suche](https://schlafklinikfinder.com/schlafmedizin/)

@@ -16,6 +16,13 @@ description: Plan a superyacht or catamaran charter. Use for weekly charter rate
 - About a specific named yacht's published rate band and specs.
 - Which destinations fit a budget or season.
 
+## What you'll find
+
+- Weekly base rates plus APA, VAT, crew tips and delivery fees, line by line.
+- Bareboat vs crewed, catamaran vs monohull, and charter vs ownership.
+- Contracts, deposits, damage waivers, cancellation cover and insurance.
+- Destination budgets, a named yacht fleet and an all-in cost calculator.
+
 ## Start here
 
 - [Charter cost](https://superyachtcharterguide.com/cost/)

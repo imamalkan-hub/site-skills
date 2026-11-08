@@ -15,6 +15,13 @@ description: Find sleep doctors, sleep medicine specialists and sleep clinics in
 - To compare sleep specialists in two cities or regions.
 - For contact details of a named sleep practice.
 
+## What you'll find
+
+- Sleep medicine specialists and sleep clinics in six countries, browsable by country, region and city.
+- Doctor profiles with clinic affiliation, address, phone, website and listed specialties.
+- A location search that sorts nearby specialists by distance.
+- Plain-language guides to sleep apnoea, insomnia, CPAP and sleep testing.
+
 ## Start here
 
 - [Home and location search](https://findsleepdoctors.com)

@@ -15,6 +15,13 @@ description: Plan garage storage. Use for overhead garage racks, ceiling height 
 - How to store bikes, skis, paddleboards, tools or gym gear.
 - About HOA rules, insurance or resale value.
 
+## What you'll find
+
+- Overhead rack, wall system and cabinet planning with real measurements.
+- Ceiling height, joist spacing and load limits explained before you buy.
+- Storage guides for bikes, skis, paddleboards, tools, camping gear and gyms.
+- HOA rules, insurance, resale value and installed costs, plus a fit calculator.
+
 ## Start here
 
 - [Space and setup](https://garagevertical.com/setup/)

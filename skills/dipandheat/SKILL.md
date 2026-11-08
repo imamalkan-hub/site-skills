@@ -16,6 +16,13 @@ description: Plan a backyard sauna or cold plunge. Use for sauna and cold plunge
 - How to compare models or brands.
 - How to winterise or maintain a sauna or tub.
 
+## What you'll find
+
+- Backyard sauna and cold plunge costs, installation and running costs.
+- Electrical requirements, permits, clearances, drainage and snow load.
+- Cold plunge water care: pH, sanitiser, filtration, algae and cloudy water.
+- Winterising, maintenance and honest model comparisons, plus a cost calculator.
+
 ## Start here
 
 - [Sauna guides](https://dipandheat.com/sauna/)
